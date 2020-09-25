@@ -1,0 +1,4 @@
+enable_validate_space_description: False
+STRING_CONFIG_SAMPLE: hello
+app_to_zone_rate: 1.2
+E2ECHANNEL_HEART_MISS_MAX: 5
